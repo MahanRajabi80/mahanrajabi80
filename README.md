@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Mahan<br>Backend and frontend programmer<br>
+I am Mahan<br>Full-stack developer<br>
 
 
 ## 🌐 Socials:
